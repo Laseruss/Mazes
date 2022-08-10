@@ -1,0 +1,15 @@
+.table {
+    display: block;
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    height: 40px;
+}
+
+.cell {
+    display: flex;
+    width: 40px;
+    border: 1px solid black;
+}
